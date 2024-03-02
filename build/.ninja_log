@@ -1,12 +1,7 @@
 # ninja log v5
-1	596	1708627820890972740	src/CMakeFiles/calc.dir/Sema.cpp.o	369555a769880e15
-0	3424	1708627638263239935	src/CMakeFiles/calc.dir/Calc.cpp.o	29e3f9ff10be677e
-1	3469	1708627638307240858	src/CMakeFiles/calc.dir/Parser.cpp.o	717589847d26e523
-0	3380	1708627638223239096	src/CMakeFiles/calc.dir/Lexer.cpp.o	493defd867199599
-0	4407	1708627639243260481	src/CMakeFiles/calc.dir/CodeGen.cpp.o	45975d9ef837f1c0
-2	1132	1708628076224997897	src/CMakeFiles/calc.dir/Lexer.cpp.o	628a03a2f63b2074
-2	1260	1708628076356972839	src/CMakeFiles/calc.dir/Parser.cpp.o	5193e4719fc40780
-4	1365	1708628076460953096	src/CMakeFiles/calc.dir/Sema.cpp.o	fd8e9919c0331522
-1	1467	1708628076564933353	src/CMakeFiles/calc.dir/Calc.cpp.o	4ad0092f97c2615b
-1	2148	1708628077244804349	src/CMakeFiles/calc.dir/CodeGen.cpp.o	2c9bb3f0bdbf6e0d
-2148	2393	1708628077492757357	src/calc	5f7ccb55744184a2
+1	6042	1709370526828120762	src/CMakeFiles/calc.dir/Sema.cpp.o	fd8e9919c0331522
+1	6143	1709370526912122596	src/CMakeFiles/calc.dir/Lexer.cpp.o	628a03a2f63b2074
+1	6205	1709370526980124082	src/CMakeFiles/calc.dir/Parser.cpp.o	5193e4719fc40780
+0	6206	1709370526968123820	src/CMakeFiles/calc.dir/Calc.cpp.o	4ad0092f97c2615b
+0	7322	1709370528104148611	src/CMakeFiles/calc.dir/CodeGen.cpp.o	2c9bb3f0bdbf6e0d
+7322	9594	1709370530380198219	src/calc	5f7ccb55744184a2
